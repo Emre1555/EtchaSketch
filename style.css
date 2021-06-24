@@ -18,3 +18,15 @@ body{
 .black{
     background-color: black;
 }
+.blue{
+    background-color: blue;
+}
+.orange{
+    background-color: rgb(255, 136, 0);
+}
+.green{
+    background-color: green;
+}
+.red{
+    background-color: red;
+}
